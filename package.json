@@ -1,0 +1,14 @@
+{
+  "name": "challenge-qr-code-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "watch": "tailwindcss -i ./style.css -o ./style.min.css --watch",
+    "build": "tailwindcss -i ./style.css -o ./style.min.css"
+  },
+  "author": "Joel Chan",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
